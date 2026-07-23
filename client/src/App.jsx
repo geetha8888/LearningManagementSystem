@@ -7,6 +7,7 @@ import CourseDetails from './pages/student/CourseDetails';
 const App = () => {
   return (
     <div>
+      <h1>hello</h1>
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/course-list' element={<CoursesList />} />
