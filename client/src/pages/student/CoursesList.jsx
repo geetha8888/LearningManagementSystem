@@ -2,7 +2,7 @@ import React from 'react'
 
 const CoursesList = () => {
   return (
-    <div>Im from CoursesList page</div>
+    <div>Im from CoursesList page from student</div>
   )
 }
 
