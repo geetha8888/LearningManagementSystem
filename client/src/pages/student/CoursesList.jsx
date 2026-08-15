@@ -2,7 +2,7 @@ import React from 'react'
 
 const CoursesList = () => {
   return (
-    <div>CoursesList page</div>
+    <div>Im from CoursesList page for students in the student folder</div>
   )
 }
 
